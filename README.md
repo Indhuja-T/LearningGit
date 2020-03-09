@@ -1,5 +1,12 @@
 # LearningGit
+
 Learning git
 Adding changes to read me
 This text is missing in the local server
-local addition of change to read me
+
+
+Learning git,
+Adding changes to read me.
+This text is missing in the local server.
+Simulating merge conflict
+
